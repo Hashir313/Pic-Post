@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477443104198",
+    "project_id": "picpost-eb66b",
+    "storage_bucket": "picpost-eb66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477443104198:android:51ea54b59875ef588926c7",
+        "android_client_info": {
+          "package_name": "com.example.pic_post"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgL9DCGBYDk7aa-ByMqLSLs3Gh8TQAF9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
