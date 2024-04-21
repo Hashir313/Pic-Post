@@ -1,16 +1,1 @@
-# pic_post
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a social media application which is like facebook or instagram. In this applivcation you signup and login through your email. You can create your posts and also view all post that are uploaded by others. There is also a chat box in which you can chat with the other users. You can also like the post and see your own post You can edit your profile and save new information. For state management, riverpod stae management is used.
